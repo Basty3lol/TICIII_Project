@@ -1,0 +1,48 @@
+.contenedor {
+    background-color: rgb(203, 28, 28);
+    color: #000;
+    font-family: 'Barlow', sans-serif !important;
+    
+}
+.bg {
+    background-image: url(/src/components/css-img/bg.jpg);
+    image-rendering: smooth !important;
+    height: auto;
+    min-height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 1rem;
+  }
+.col1 {
+    text-align: center;
+    color: #000;
+
+}
+.col2 {
+    text-align: center;
+    color: #000; 
+}
+.last-cols1 {
+    justify-content: end;
+}
+.row-content {
+    padding-bottom: 1rem;
+}
+.Title {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: #000;
+}
+.mision{
+    width: 65%;
+    margin: auto;
+}
+
+.MuiTypography-colorTextSecondary {
+    color: rgba(0, 0, 0, 0.77) !important;
+}
+.MuiAvatar-root {
+    width: 90px !important;
+    height: 90px !important;
+}

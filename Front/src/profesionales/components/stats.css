@@ -1,0 +1,68 @@
+.title {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.subtitle {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.row-content {
+    align-items: center;
+    text-align: center;
+}
+
+.row-content:last-child {
+    margin-top: 50px;
+}
+
+.stats-citas {
+    font-size: 45px;
+}
+
+.chart-card {
+    margin: 0 20px;
+}
+
+.form-year {
+    justify-content: center !important;
+    font-size: 20px;
+}
+
+.form-year label {
+    margin-right: 10px;
+}
+
+.loader-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    background: white;
+    z-index: 1;
+    margin-top: 40vh;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid;
+    border-color: #57b0b6 transparent #57b0b6 transparent;
+    border-radius: 50%;
+    animation: spin-anim 0.5s linear infinite;
+}
+
+@keyframes spin-anim {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

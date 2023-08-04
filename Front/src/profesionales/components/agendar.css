@@ -1,0 +1,42 @@
+.textorut {
+    width: 78.2%;
+    min-width: 0 !important;
+}
+
+.boton-buscar {
+    margin-top : 0.8rem !important;
+    height: 34px !important;
+    width: 20% !important;
+    color: #fff !important;
+    background-color: #4554f7 !important;
+}
+
+.form-wea {
+    position:  relative !important;
+}
+
+.form-agenda2 {
+    max-width: 100% !important;
+    min-width: 20rem !important;
+    text-align: center !important;
+}
+
+.form-center {
+    position: absolute !important;
+    left: 0;
+    right: 0;
+    margin: auto !important;  
+}
+
+.css-1e2bxag-MuiDataGrid-root {
+    max-height: 498px !important;
+   margin-bottom: 1rem !important;
+}
+
+.boton-add {
+    background-color: #22b130 !important;
+}
+
+.boton-borrar {
+    background-color: #e81919 !important;
+}

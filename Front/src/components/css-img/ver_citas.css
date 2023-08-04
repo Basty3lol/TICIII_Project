@@ -1,0 +1,15 @@
+.Form{
+    text-align: center;
+    width: 100%;
+}
+.MuiFormControl-root{
+    min-width: 20rem !important;
+}
+.input-row {
+    padding-top: 2rem;
+}
+
+.Buscar{
+    margin-top: 19px !important;
+
+}

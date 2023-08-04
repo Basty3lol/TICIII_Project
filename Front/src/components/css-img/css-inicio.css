@@ -1,0 +1,35 @@
+.col-1 {
+    padding-top: 1rem;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    color: #57b0b6;
+}
+
+.col-2 {
+    text-align: center;
+}
+
+.col-3 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    color: #57b0b6;
+}
+
+.col-44
+ {
+    text-align: center;
+}
+
+.last-row {
+    padding-left: 0rem;
+    padding-right: 0rem;
+}
+.conta {
+    height: auto;
+    padding-bottom: 1rem;
+}
+.texto {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
